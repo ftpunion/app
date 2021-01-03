@@ -1,3 +1,13 @@
-联盟各开发者开发的安装包备份
-命名：用户名+开发者命名的原文件名
-开发者ihainan的github地址：https://github.com/ihainan/BITUnion-for-Android
+联盟各开发者开发的安装包备份<br>
+未来bitunion.org/app.php页面的下载地址可能会链接到此页面<br>
+命名：用户名+开发者命名的原文件名<br>
+开发者列表(以初版发布日期时间为序)<br>
+安卓版<br>
+vleon(2013-06-14):https://github.com/finalion/bitunion<br>
+Login(2015-04-23):无github页面<br>
+ihainan(2017-06-03)：https://github.com/ihainan/BITUnion-for-Android<br>
+ios版<br>
+加冰可乐(2016-06-02):无github页面<br>
+jox0(2020-12-31):无github页面<br>
+WP客户端版<br>
+泪沸腾(2013-12-2)：https://github.com/olenheim/Bitunion<br>
