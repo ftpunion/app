@@ -1,6 +1,6 @@
 联盟各开发者开发的安装包备份<br>
 未来bitunion.org/app.php页面的下载地址可能会链接到此页面<br>
-命名：用户名+开发者命名的原文件名<br>
+程序包命名：用户名+开发者命名的原文件名<br>
 开发者列表(以初版发布日期时间为序)<br>
 安卓版<br>
 vleon(2013-06-14):https://github.com/finalion/bitunion<br>
